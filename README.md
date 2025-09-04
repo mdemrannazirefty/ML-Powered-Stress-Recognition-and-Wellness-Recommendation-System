@@ -40,4 +40,35 @@ We used the [Sleep Health and Lifestyle Dataset](https://www.kaggle.com/datasets
 | Logistic Regression  | 0.81     | 0.82      | 0.81   | 1.00     |
 | SVM                  | 0.41     | 0.08      | 0.17   | 0.80     |
 | XGBoost              | 1.00     | 1.00      | 1.00   | 0.11     |
-| **Meta-Model**
+| **Meta-Model**       | **1.00** | **1.00**  | **1.00** | **1.00** |
+
+✅ **Meta-Model achieved 100% accuracy**, leveraging the strengths of all base models.  
+🔑 Key predictors: **Sleep quality, Physical activity, Heart rate**.  
+
+---
+
+## 🚧 Limitations  
+- The dataset size (374 participants) limits generalization  
+- Self-reported stress levels may contain bias  
+- Imbalanced stress categories (extreme values underrepresented)  
+
+---
+
+## 🔮 Future Work  
+- Expand dataset with real-time data from wearables  
+- Add biological stress indicators (e.g., cortisol levels)  
+- Apply data balancing and augmentation techniques  
+
+---
+
+## 📂 Resources  
+- 📊 [Kaggle Dataset](https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset?resource=download)  
+- 📓 [Google Colab Notebook](https://colab.research.google.com/drive/1tsDBkCnbTZdIvrXWSh8XfTjwg6H0kCwm?usp=sharing)  
+
+---
+
+### 👨‍💻 Authors 
+- Md. Emran Nazir Efty 
+- Rafiah Salsabil Labanya  
+- Raysul Azad Turzo  
+- Tutul Kumar Ghosh  
