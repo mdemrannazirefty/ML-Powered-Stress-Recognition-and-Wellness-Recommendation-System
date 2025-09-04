@@ -1,4 +1,4 @@
-# 🌿 ML-Powered Stress Recognition and Wellness Recommendation System  
+# ML-Powered Stress Recognition and Wellness Recommendation System  
 
 This project uses **machine learning** to detect stress levels and provide personalized wellness recommendations.  
 By combining demographic, behavioral, and health-related data, the system improves accuracy compared to traditional self-reports.  
